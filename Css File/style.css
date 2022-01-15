@@ -21,6 +21,7 @@ header{
     align-items: center;
 }
 
+
 .nav-menu ul{
     display: flex;
 
@@ -234,6 +235,7 @@ Mobile Responsive
     header{
         width: 100%;
     }
+    
     .nav-menu{
         display: none;
     }
@@ -294,6 +296,7 @@ Mobile Responsive
         grid-template-columns: .8fr;
         justify-content: center;
         justify-items: center;
+        grid-row-gap: 30px;
 
     }
     .logos{
