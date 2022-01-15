@@ -300,10 +300,10 @@ Mobile Responsive
 
     }
     .logos{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
     .logo{
-        margin-right: 50px;
+        margin-right: 70px;
     }
 
     .product-image{
